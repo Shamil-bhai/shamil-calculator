@@ -1,0 +1,2 @@
+# shamil-calculator
+first project
